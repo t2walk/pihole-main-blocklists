@@ -2,8 +2,8 @@
 
 Generated from `master_blocklist.txt`.
 
-- Chunks: 4
-- Domains: 6325870
+- Chunks: 5
+- Domains: 8321905
 - Max chunk size: 45 MB
 
 Add each chunk's raw GitHub URL to Pi-hole as an adlist.
@@ -12,3 +12,4 @@ Add each chunk's raw GitHub URL to Pi-hole as an adlist.
 - `master-blocklist-002.txt`
 - `master-blocklist-003.txt`
 - `master-blocklist-004.txt`
+- `master-blocklist-005.txt`
