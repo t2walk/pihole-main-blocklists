@@ -3,3 +3,6 @@ __pycache__/
 .env
 master_blocklist.txt
 *.py
+.github/workflows/*
+.github/workflow*
+.agents/*
