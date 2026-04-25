@@ -6,3 +6,4 @@ master_blocklist.txt
 .github/workflows/*
 .github/workflow*
 .agents/*
+!update_repo_blocklists.py
