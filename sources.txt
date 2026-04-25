@@ -51,3 +51,14 @@ https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklist
 https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/refs/heads/main/lists/nsfw.txt
 https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/refs/heads/main/lists/suspicious.txt
 https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/refs/heads/main/lists/tracking.txt
+https://raw.githubusercontent.com/JackCuthbert/pihole-twitter/refs/heads/main/pihole-twitter.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/multi.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/popupads.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/fake.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.txt
+https://easylist.to/easylist/easylist.txt
+https://adaway.org/hosts.txt
+https://github.com/Zaczero/pihole-phishtank/blob/main/hosts.txt
+https://github.com/zangadoprojets/pi-hole-block-list/raw/main/facebook.txt
